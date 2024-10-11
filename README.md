@@ -1,2 +1,4 @@
 # Portfolio-Website
-This is a Website to show off my skills, I won't help you to set it up.
+I use this site to show off what I am currently working on, and some of my interests.
+
+I wont be helping to set this up. If you don't know how to do it, i wont **help**.
